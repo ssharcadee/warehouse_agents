@@ -1,0 +1,21 @@
+sku,name,category,location,quantity,reorder_point,reorder_qty,supplier,unit_cost_jmd,lead_time_days
+WH-001,Wooden pallets (standard),Handling,Bay A1,140,100,200,Island Timber Ltd,2800,5
+WH-002,Stretch wrap rolls,Packaging,Bay A2,35,60,120,PackRight Supplies,1950,3
+WH-003,Corrugated boxes (large),Packaging,Bay A2,410,300,500,PackRight Supplies,180,3
+WH-004,Container seals (bolt),Security,Cage S1,90,150,400,SecureLock Caribbean,650,10
+WH-005,Forklift LPG cylinders,Equipment,Yard Y2,12,15,30,Caribbean Gas Co,9500,2
+WH-006,Forklift tyres,Equipment,Cage S2,8,6,12,Kingston Auto Parts,42000,14
+WH-007,Safety vests (hi-vis),Safety,Cage S3,55,40,100,SafeWork JA,1200,7
+WH-008,Hard hats,Safety,Cage S3,18,25,50,SafeWork JA,3400,7
+WH-009,Ratchet straps,Handling,Bay A3,64,50,100,Island Hardware,2100,4
+WH-010,Barcode label rolls,Office,Office O1,22,30,80,PrintPoint Kingston,1500,3
+WH-011,Thermal printer ribbons,Office,Office O1,9,10,25,PrintPoint Kingston,2700,3
+WH-012,Pallet jack wheels,Equipment,Cage S2,14,8,20,Kingston Auto Parts,6800,10
+WH-013,Dunnage bags,Packaging,Bay A4,230,150,300,PackRight Supplies,900,5
+WH-014,Reefer container fuel (litres),Equipment,Yard Y1,1800,2000,5000,Caribbean Gas Co,210,2
+WH-015,First aid kits,Safety,Office O2,6,5,10,SafeWork JA,8500,7
+WH-016,Cargo nets,Handling,Bay A3,11,12,20,Island Hardware,15500,6
+WH-017,Industrial gloves (pairs),Safety,Cage S3,120,100,300,SafeWork JA,650,7
+WH-018,Shrink hood bags,Packaging,Bay A4,75,80,200,PackRight Supplies,450,3
+WH-019,Fire extinguishers,Safety,Office O2,24,20,30,SafeWork JA,18000,10
+WH-020,Container lashing bars,Security,Yard Y2,48,40,80,SecureLock Caribbean,12500,12

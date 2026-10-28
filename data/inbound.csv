@@ -1,0 +1,6 @@
+shipment_id,sku,quantity,vessel,eta
+IN-501,WH-002,60,MV Caribbean Star,2026-10-30
+IN-502,WH-004,200,MV Blue Marlin,2026-11-06
+IN-503,WH-014,3000,Truck delivery,2026-10-29
+IN-504,WH-008,10,Courier,2026-11-02
+IN-505,WH-020,40,MV Blue Marlin,2026-11-06
